@@ -19,6 +19,8 @@ url = 'http://158.69.76.135/level0.php'
 voteBre = {'id': '2326', 'holdthedoor': 'Submit'}
 
 for i in range(1024):
+    # pass dict->voteBre to 'data' arg to be automatically form-encoded  
+    # Response object assigned variable r to check response status code 200=OK
     r = requests.post(url, data=voteBre)
-
-print(r.status_code, r.reason)
+# check response status code
+print(r.status_code)

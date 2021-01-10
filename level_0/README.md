@@ -1,1 +1,1 @@
-# Holberton School Optional Hodor Project
+# Program to vote 1024 times for id on http website

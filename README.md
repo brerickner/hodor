@@ -27,8 +27,8 @@ HOLD THE DOOR and let's see if Bre can hack your online voting contest!!!
 
 &nbsp;
 
-**Demo:**
->  ![gif](hodor/level_0/Level*.gif)
+**Demo:**  
+![gif](https://github.com/brerickner/hodor/blob/master/level_0/level_0_Demo.gif)
 
 **Repo:**
 

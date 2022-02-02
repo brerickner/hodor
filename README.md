@@ -3,73 +3,76 @@
 ![gif](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/261/giphy_hodor.gif)
 
 
-HOLD THE DOOR and let's see if Bre can hack your online voting contest!!!  
-
-&nbsp;  
+HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!  
 
 > _This project is meant for educational purposes only_
 >
->  Many online contests make gathering votes a part of their process for choosing winners. The problem is that a lot of them are designed with flaws… 
+> Many online contests make gathering votes a part of their process for choosing winners. The problem is that a lot of them are designed with flaws… 
 
 &nbsp;  
 
-##  LEVELS:
-***
+**Levels:**
+=======
 
-&nbsp;
-#### LEVEL 0
 
-> Write a script or a program that votes for the ID --> **2326**(Bre)  
-**_1024_** times!
+
+####  Level 0 :white_check_mark:  
+
+> `Write a script or a program that votes for the ID --> **2326**(Bre)  
+> **_1024_** times!`
 >
->*   You can use the language of your choice
->*  [CONTEST PAGE](http://158.69.76.135/level0.php)
+> - You can use the language of your choice
+> - [CONTEST PAGE](http://158.69.76.135/level0.php)
 
-&nbsp;
-
-**Demo:**  
-![gif](https://github.com/brerickner/hodor/blob/master/level_0/level_0_Demo.gif)
-
-**Repo:**
-
-*   GitHub repository: [hodor](https://github.com/brerickner/hodor)
-*   Directory: [level_0](https://github.com/brerickner/hodor/blob/master/level_0/level_0.py)  
-
-&nbsp;  
-
-
-#### LEVEL 1
-
-> Write a script or a program that votes for the ID --> **2326**(Bre)   
-**_4096_** times!
+> ##### Demo: &nbsp;
 >
+> ![gif](level_0/level_0_Demo.gif)
+
+> ##### **Repo:**
 >
->*   You can use the language of your choice
->* [CONTEST PAGE](http://158.69.76.135/level1.php)
+> - **GitHub repository:** [hodor](https://github.com/brerickner/hodor)
+> - **Directory:** [level_0](https://github.com/brerickner/hodor/blob/master/level_0/level_0.py)   
 
-&nbsp; 
 
-![gif](https://github.com/brerickner/hodor/blob/master/Level_1.gif?raw=true)
 
-**Repo:**
+####  Level 1 :white_check_mark:
 
-*   GitHub repository: [hodor](https://github.com/brerickner/hodor)
-*   Directory: [level_1](https://github.com/brerickner/hodor/blob/master/level_1/level1.py)
-
-&nbsp;  
-####  LEVEL 2
-
-> Write a script or a program that votes for the ID --> **2326**(Bre)   
-**_1024_** times!
+> `Write a script or a program that votes for the ID --> **2326**(Bre)   
+> **_4096_** times!`
 >
 >
->*   You can use the language of your choice
->* [CONTEST PAGE](http://158.69.76.135/level2.php)
+> *   You can use the language of your choice
+> *   [CONTEST PAGE](http://158.69.76.135/level1.php)
 
-**Repo:**
+> ##### Demo:  &nbsp;  
+>
+> ![gif](level_1/Level_1.gif)
 
-*   GitHub repository: [hodor](https://github.com/brerickner/hodor)
-*   Directory: [level_2](https://github.com/brerickner/hodor/blob/master/level_2/level_2.py)
+> ##### **Repo:**
+>
+> - GitHub repository: [hodor](https://github.com/brerickner/hodor)
+> - Directory: [level_1](https://github.com/brerickner/hodor/blob/master/level_1/level1.py)
+
+
+
+####  Level 2 :white_check_mark:
+
+> `Write a script or a program that votes for the ID --> **2326**(Bre)   
+> **_1024_** times! `
+>
+>
+> *   Contest only allows votes from Windows users
+> *   You can use the language of your choice
+> *   [CONTEST PAGE](http://158.69.76.135/level2.php)
+
+> #####  Demo:  
+>
+> ![gif](level_2/demo_level_2.gif)
+
+> #####  Repo:
+>
+> *   GitHub repository: [hodor](https://github.com/brerickner/hodor)
+> *   Directory: [level_2](https://github.com/brerickner/hodor/blob/master/level_2/level_2.py)
 
 &nbsp;  
 
@@ -84,4 +87,3 @@ Resources
 *   [OCR for Captcha](https://www.google.com/search?q=solving+captcha+with+ocr)
 *   [TOR](https://www.google.com/search?q=tor)
 *   [Proxy lists](https://www.google.com/search?q=proxy+lists)
-

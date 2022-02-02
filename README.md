@@ -28,7 +28,7 @@
 
 
 ### <span style="font-family:monospace; font-size:1.25em;">LEVEL 1</span>
-
+![gif](hodor/Level_1.mov)
 > Write a script or a program that votes for the ID --> **2326**(Bre)   
 <span style="color:red">4096 times!</span> 
 >
@@ -41,41 +41,22 @@
 *   GitHub repository: [hodor](https://github.com/brerickner/hodor)
 *   Directory: [level_1](https://github.com/brerickner/hodor/blob/master/level_1/level1.py)
 
+&nbsp;  
+### <span style="font-family:monospace; font-size:1.25em;">LEVEL 2</span>
 
-
-### 2\. Level 2
-
-#advanced
-
-Score: 0% (Checks completed: 0%)
-
-Write a script or a program that votes 1024 times for your id [here: http://158.69.76.135/level2.php](/rltoken/5wKbjmztZEsa2YXUyQa7TA "here: http://158.69.76.135/level2.php")
-
-*   You can use the language of your choice
+> Write a script or a program that votes for the ID --> **2326**(Bre)   
+<span style="color:red">1024 times!</span> 
+>
+>
+>*   You can use the language of your choice
+>* [CONTEST PAGE](http://158.69.76.135/level2.php)
 
 **Repo:**
 
-*   GitHub repository: `hodor`
-*   Directory: `level_2`
+*   GitHub repository: [hodor](https://github.com/brerickner/hodor)
+*   Directory: [level_2](https://github.com/brerickner/hodor/blob/master/level_2/level_2.py)
 
-
-
-### 3\. Level 3
-
-#advanced
-
-Score: 0% (Checks completed: 0%)
-
-Write a script or a program that votes 1024 times for your id [here: http://158.69.76.135/level3.php](/rltoken/wQDaDAm8VZhvwIxcNCB-Qw "here: http://158.69.76.135/level3.php")
-
-*   You can use the language of your choice
-
-**Repo:**
-
-*   GitHub repository: `hodor`
-*   Directory: `level_3`
-
-
+&nbsp;  
 
 
 Resources

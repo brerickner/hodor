@@ -30,7 +30,7 @@ HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!
 > ##### **Repo:**
 >
 > - **GitHub repository:** [hodor](https://github.com/brerickner/hodor)
-> - **Directory:** [level_0](https://github.com/brerickner/hodor/blob/master/level_0/level_0.py)   
+> - **Py Script:** [level_0](https://github.com/brerickner/hodor/blob/master/level_0/level_0.py)   
 
 
 
@@ -49,7 +49,7 @@ HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!
 > ##### Repo:
 >
 > - GitHub repository: [hodor](https://github.com/brerickner/hodor)
-> - Directory: [level_1](https://github.com/brerickner/hodor/blob/master/level_1/level1.py)
+> - Py Script: [level_1](https://github.com/brerickner/hodor/blob/master/level_1/level1.py)
 
 
 
@@ -69,7 +69,7 @@ HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!
 > #####  Repo:
 >
 > *   GitHub repository: [hodor](https://github.com/brerickner/hodor)
-> *   Directory: [level_2](https://github.com/brerickner/hodor/blob/master/level_2/level_2.py)
+> *   Py Script: [level_2](https://github.com/brerickner/hodor/blob/master/level_2/level_2.py)
 
 &nbsp;  
 

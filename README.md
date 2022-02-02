@@ -1,23 +1,34 @@
-# <span style="font-family:Papyrus; font-size:3em;"><center>HODOR</span>
+# **HODOR**
 
 ![gif](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/261/giphy_hodor.gif)
-<span style="font-family:Helvetica; font-size:1.15em;"><center>HOLD THE DOOR and let's see if Bre can hack your online voting contest!!!</span>  
 
+
+HOLD THE DOOR and let's see if Bre can hack your online voting contest!!!  
+
+&nbsp;  
 
 > _This project is meant for educational purposes only_
 >
->  Many online contests make gathering votes a part of their process for choosing winners. The problem is that a lot of them are designed with flaws…</center>
+>  Many online contests make gathering votes a part of their process for choosing winners. The problem is that a lot of them are designed with flaws… 
 
-###  <span style="font-family:monospace; font-size:2em;">LEVELS:</span>
+&nbsp;  
 
+##  LEVELS:
 ***
-### <span style="font-family:monospace; font-size:1.25em;">LEVEL 0</span>
+
+&nbsp;
+#### LEVEL 0
 
 > Write a script or a program that votes for the ID --> **2326**(Bre)  
-<span style="color:red">1024 times!</span>
+**_1024_** times!
 >
 >*   You can use the language of your choice
 >*  [CONTEST PAGE](http://158.69.76.135/level0.php)
+
+&nbsp;
+
+**Demo:**
+>  ![gif](hodor/level_0/Level*.gif)
 
 **Repo:**
 
@@ -27,14 +38,16 @@
 &nbsp;  
 
 
-### <span style="font-family:monospace; font-size:1.25em;">LEVEL 1</span>
+#### LEVEL 1
 
 > Write a script or a program that votes for the ID --> **2326**(Bre)   
-<span style="color:red">4096 times!</span> 
+**_4096_** times!
 >
 >
 >*   You can use the language of your choice
->* [CONTEST PAGE](http://158.69.76.135/level1.php)  
+>* [CONTEST PAGE](http://158.69.76.135/level1.php)
+
+&nbsp; 
 
 ![gif](https://github.com/brerickner/hodor/blob/master/Level_1.gif?raw=true)
 
@@ -44,10 +57,10 @@
 *   Directory: [level_1](https://github.com/brerickner/hodor/blob/master/level_1/level1.py)
 
 &nbsp;  
-### <span style="font-family:monospace; font-size:1.25em;">LEVEL 2</span>
+####  LEVEL 2
 
 > Write a script or a program that votes for the ID --> **2326**(Bre)   
-<span style="color:red">1024 times!</span> 
+**_1024_** times!
 >
 >
 >*   You can use the language of your choice

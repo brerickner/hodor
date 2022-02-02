@@ -18,8 +18,7 @@ HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!
 
 ####  Level 0 :white_check_mark:  
 
-> `Write a script or a program that votes for the ID --> **2326**(Bre)  
-> **_1024_** times!`
+> `Write a script or a program that votes for Bre's Holnerton ID 1024 times!`
 >
 > - You can use the language of your choice
 > - [CONTEST PAGE](http://158.69.76.135/level0.php)
@@ -37,10 +36,9 @@ HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!
 
 ####  Level 1 :white_check_mark:
 
-> `Write a script or a program that votes for the ID --> **2326**(Bre)   
-> **_4096_** times!`
+> `Write a script or a program that votes for Bre's Holberton ID 4096 times!`
 >
->
+> *   Webpage uses cookies
 > *   You can use the language of your choice
 > *   [CONTEST PAGE](http://158.69.76.135/level1.php)
 
@@ -48,7 +46,7 @@ HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!
 >
 > ![gif](level_1/Level_1.gif)
 
-> ##### **Repo:**
+> ##### Repo:
 >
 > - GitHub repository: [hodor](https://github.com/brerickner/hodor)
 > - Directory: [level_1](https://github.com/brerickner/hodor/blob/master/level_1/level1.py)
@@ -57,8 +55,7 @@ HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!
 
 ####  Level 2 :white_check_mark:
 
-> `Write a script or a program that votes for the ID --> **2326**(Bre)   
-> **_1024_** times! `
+> `Write a script or a program that votes for Bre's Holberton ID 1024 times! `
 >
 >
 > *   Contest only allows votes from Windows users

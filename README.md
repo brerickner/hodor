@@ -28,13 +28,15 @@
 
 
 ### <span style="font-family:monospace; font-size:1.25em;">LEVEL 1</span>
-![gif](hodor/Level_1.mov)
+
 > Write a script or a program that votes for the ID --> **2326**(Bre)   
 <span style="color:red">4096 times!</span> 
 >
 >
 >*   You can use the language of your choice
->* [CONTEST PAGE](http://158.69.76.135/level1.php)
+>* [CONTEST PAGE](http://158.69.76.135/level1.php)  
+
+![gif](https://github.com/brerickner/hodor/blob/master/Level_1.gif?raw=true)
 
 **Repo:**
 

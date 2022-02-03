@@ -56,7 +56,8 @@ $ ./level_0.py
 (Ctrl + C)
 ```
 
-##  Levels :zero::one::two:
+##  Levels :zero::one::two:  
+
 ###  Level 0 :white_check_mark:  
 
 `Write a script or a program that votes for Bre's Holnerton ID 1024 times!`

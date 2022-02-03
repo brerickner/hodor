@@ -4,9 +4,9 @@
 
 # HODOR
 <p align="center">
-<a href="https://scrutinizer-ci.com/code-intelligence"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/code-intelligence.svg?b=master" alt="code intelligence"></a>
+<a href="https://scrutinizer-ci.com/g/brerickner/hodor/?branch=master"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/quality-score.png?b=master" alt="quality-score" title="Hodor's quality score 1-10"></a>
 <a href="https://scrutinizer-ci.com/g/brerickner/hodor/build-status/master"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/build.png?b=master" alt="scrutinizer"></a>
-<a href="https://scrutinizer-ci.com/g/brerickner/hodor/?branch=master"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/quality-score.png?b=master"></a>
+<a href="https://scrutinizer-ci.com/code-intelligence"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/code-intelligence.svg?b=master" alt="code intelligence" title="Code Intelligence available for Hodor"></a>
 </p>
 
 <p align="center">

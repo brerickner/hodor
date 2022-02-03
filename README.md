@@ -21,7 +21,7 @@
 
 
 
-HOLD THE DOOR ...while **Bre** hacks some online voting contest!!!  
+HOLD THE DOOR ...while **Bre** hacks some online voting contests!!!  
 
 > _This project is meant for educational purposes only_
 >

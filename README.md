@@ -26,8 +26,8 @@ HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!
 
 &nbsp;  
 
-##  **How To Use**
-***
+##  How To Use
+
 To run this script you will need **Python3** and **pip** installed. It's also imperative you have the ***requests*** *module* installed. This is a third party module that can be installed globally using the command:
 
 ```bash
@@ -53,19 +53,15 @@ $ ./level_0.py
 (Ctrl + C)
 ```
 
-##  **Levels**
-***
+##  Levels
+###  Level 0 :white_check_mark:  
 
+`Write a script or a program that votes for Bre's Holnerton ID 1024 times!`
+* You can use the language of your choice
+* [CONTEST PAGE](http://158.69.76.135/level0.php)
 
-
-####  Level 0 :white_check_mark:  
-
-> `Write a script or a program that votes for Bre's Holnerton ID 1024 times!`
->
-> - You can use the language of your choice
-> - [CONTEST PAGE](http://158.69.76.135/level0.php)
-
-> ##### Demo: &nbsp;
+#### Demo: 
+&nbsp;
 >
 > ![gif](level_0/level_0_Demo.gif)
 
@@ -117,7 +113,6 @@ $ ./level_0.py
 
 
 ##  Resources Provided
----
 
 **Read or watch**:
 

@@ -110,7 +110,7 @@ $ ./level_0.py
 > *   **GitHub repository:** [hodor](https://github.com/brerickner/hodor)
 > *   **Py Script:** [level_2](https://github.com/brerickner/hodor/blob/master/level_2/level_2.py)
 
-## :bookmark_tabs:Resources Provided
+## Resources Provided:bookmark_tabs:
 
 :bookmark_tabs:**Read or watch**:
 
@@ -120,7 +120,7 @@ $ ./level_0.py
 *   [TOR](https://www.google.com/search?q=tor)
 *   [Proxy lists](https://www.google.com/search?q=proxy+lists)
 
-## :ticket:Features
+## Features:ticket:
 
 - [x] HTTP POST Automation
 - [x] Success Message
@@ -128,7 +128,7 @@ $ ./level_0.py
 - [x] Hack online voting contest *with* cookies
 - [x] Hack online voting contest as a *Window's* User
 - [ ] Hack online voting contest with captcha
-## :scroll:License
+## License:scroll:
 
 MIT  
 

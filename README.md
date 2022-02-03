@@ -3,11 +3,10 @@
 </a> 
 
 # HODOR
-
-<p align="center">
-<a [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/brerickner/hodor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/brerickner/hodor/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/brerickner/hodor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/brerickner/hodor/?branch=master)
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/brerickner/hodor/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
-[![Build Status](https://scrutinizer-ci.com/g/brerickner/hodor/badges/build.png?b=master)](https://scrutinizer-ci.com/g/brerickner/hodor/build-status/master)>Badges</a>
+[![Build Status](https://scrutinizer-ci.com/g/brerickner/hodor/badges/build.png?b=master)](https://scrutinizer-ci.com/g/brerickner/hodor/build-status/master)
+<p align="center">
 <a href="#how-to-use">How To Use</a> •
   <a href="#levels">Levels</a> •
   <a href="#resources-provided">Resources Provided</a> •

@@ -9,7 +9,7 @@
 <p align="center">
 <a href="#how-to-use">How To Use</a> •
   <a href="#levels">Levels</a> •
-  <a href="#resources">Resources</a> •
+  <a href="#resources-provided">Resources Provided</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
@@ -117,7 +117,7 @@ $ ./level_0.py
 
 
 ##  Resources Provided
----------
+---
 
 **Read or watch**:
 
@@ -127,6 +127,15 @@ $ ./level_0.py
 *   [TOR](https://www.google.com/search?q=tor)
 *   [Proxy lists](https://www.google.com/search?q=proxy+lists)
 
+##  Features
+---
+
+- [x] HTTP POST Automation
+- [x] Success Message
+- [x] Hack online voting contest
+- [x] Hack online voting contest *with* cookies
+- [x] Hack online voting contest as a *Window's* User
+- [ ] Hack online voting contest with captcha
 ##  License
 ---  
 

@@ -29,16 +29,21 @@ HOLD THE DOOR ...while **Bre** hacks some online voting contest!!!
 
 ##  How To Use
 
-To run this script you will need **Python3** and **pip** installed. It's also imperative you have the ***requests*** *module* installed. This is a third party module that can be installed globally using the command:
+To run these script you will need **Python3** and **pip** installed. It's also imperative you have the ***requests*** *module* installed. **Requests** is a third party module, to install it globally, please use the command:
 
+#### Linux/Mac
 ```bash
 $ pip install requests
 ```
-####  **Vote for a different ID:**   
-* Modify the *value* associated with the key 'id' when constructing the *voteBre dict*.
+#### Windows
+```bash
+$ python -m pip install requests
+```
+####  **Voting for a different ID:**   
+* Done by modify the *value* associated with the key 'id' when constructing the *voteBre dict*.
 
 ####  **Altering the number of times you vote:**
-* Done by adjusting the parameter of *range()* being used to initialize *for* loop. 
+* Done by adjusting the parameter of *range()* during the initialization of the *for loop*
 
 
 **Running the Python Script:**
@@ -105,9 +110,9 @@ $ ./level_0.py
 > *   **GitHub repository:** [hodor](https://github.com/brerickner/hodor)
 > *   **Py Script:** [level_2](https://github.com/brerickner/hodor/blob/master/level_2/level_2.py)
 
-## Resources Provided
+## :bookmark_tabs:Resources Provided
 
-**Read or watch**:
+:bookmark_tabs:**Read or watch**:
 
 *   [HTTP headers](https://www.google.com/search?q=http+headers+explained+post&oq=http+headers+explained+post)
 *   [Scraping](/rltoken/L2HhLK0iyncmurlkigh5yw "Scraping")
@@ -115,7 +120,7 @@ $ ./level_0.py
 *   [TOR](https://www.google.com/search?q=tor)
 *   [Proxy lists](https://www.google.com/search?q=proxy+lists)
 
-## Features
+## :ticket:Features
 
 - [x] HTTP POST Automation
 - [x] Success Message
@@ -123,7 +128,7 @@ $ ./level_0.py
 - [x] Hack online voting contest *with* cookies
 - [x] Hack online voting contest as a *Window's* User
 - [ ] Hack online voting contest with captcha
-##  License
+## :scroll:License
 
 MIT  
 

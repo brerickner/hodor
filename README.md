@@ -4,16 +4,16 @@
 
 # HODOR
 <p align="center">
-<a href="https://scrutinizer-ci.com/g/brerickner/hodor/?branch=master"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/quality-score.png?b=master" alt="quality-score" title="Hodor's quality score 1-10"></a>
-<a href="https://scrutinizer-ci.com/g/brerickner/hodor/build-status/master"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/build.png?b=master" alt="scrutinizer"></a>
-<a href="https://scrutinizer-ci.com/code-intelligence"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/code-intelligence.svg?b=master" alt="code intelligence" title="Code Intelligence available for Hodor"></a>
+<a href="https://scrutinizer-ci.com/g/brerickner/hodor/?branch=master"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/quality-score.png?b=master" alt="quality-score" title="Hodor's quality score (1-10)"></a>
+<a href="https://scrutinizer-ci.com/g/brerickner/hodor/build-status/master"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/build.png?b=master" alt="scrutinizer" title="Successful Build"></a>
+<a href="https://scrutinizer-ci.com/code-intelligence"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/code-intelligence.svg?b=master" alt="code intelligence" title="Code Intelligence available"></a>
 </p>
 
 <p align="center">
 <a href="#how-to-use">How To Use</a> •
   <a href="#levels">Levels</a> •
   <a href="#resources-provided">Resources Provided</a> •
-  <a href="#credits">Credits</a> •
+  <a href="#features">Features</a> •
   <a href="#license">License</a>
 </p>
 
@@ -56,15 +56,15 @@ $ ./level_0.py
 (Ctrl + C)
 ```
 
-##  Levels :zero::one::two:  
+## Levels :zero::one::two:  
 
-###  Level 0 :white_check_mark:  
+### Level 0 :white_check_mark:  
 
 `Write a script or a program that votes for Bre's Holnerton ID 1024 times!`
 *  You can use the language of your choice
 *  [CONTEST PAGE](http://158.69.76.135/level0.php) :checkered_flag:  
 
-####  Demo:
+#### Demo:
 >![gif](level_0/level_0_Demo.gif)
 
 ##### **Repo:**
@@ -74,7 +74,7 @@ $ ./level_0.py
 
 &nbsp;
 
-###  Level 1 :white_check_mark:
+### Level 1 :white_check_mark:
 
 `Write a script or a program that votes for Bre's Holberton ID 4096 times!`
 *  Webpage uses cookies
@@ -90,22 +90,22 @@ $ ./level_0.py
 
 &nbsp;
 
-###  Level 2 :white_check_mark:
+### Level 2 :white_check_mark:
 
 `Write a script or a program that votes for Bre's Holberton ID 1024 times! `
 *  Contest only allows votes from Windows users
 *  You can use the language of your choice
 *  [CONTEST PAGE](http://158.69.76.135/level2.php) :checkered_flag:
 
-####  Demo:  
+#### Demo:  
 > ![gif](level_2/demo_level_2.gif)
 
-#####  **Repo:**
+##### **Repo:**
 >
 > *   **GitHub repository:** [hodor](https://github.com/brerickner/hodor)
 > *   **Py Script:** [level_2](https://github.com/brerickner/hodor/blob/master/level_2/level_2.py)
 
-##  Resources Provided
+## Resources Provided
 
 **Read or watch**:
 
@@ -115,7 +115,7 @@ $ ./level_0.py
 *   [TOR](https://www.google.com/search?q=tor)
 *   [Proxy lists](https://www.google.com/search?q=proxy+lists)
 
-##  Features
+## Features
 
 - [x] HTTP POST Automation
 - [x] Success Message

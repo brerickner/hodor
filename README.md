@@ -3,12 +3,11 @@
 </a> 
 
 # HODOR
-<a align="center">
-
-[![Code Intelligence Status](https://scrutinizer-ci.com/g/brerickner/hodor/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
-[![Build Status](https://scrutinizer-ci.com/g/brerickner/hodor/badges/build.png?b=master)](https://scrutinizer-ci.com/g/brerickner/hodor/build-status/master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/brerickner/hodor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/brerickner/hodor/?branch=master)
-</a>
+<p align="center">
+<a href="https://scrutinizer-ci.com/code-intelligence"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/code-intelligence.svg?b=master" alt="code intelligence"></a>
+<a href="https://scrutinizer-ci.com/g/brerickner/hodor/build-status/master"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/build.png?b=master" alt="scrutinizer"></a>
+<a href="https://scrutinizer-ci.com/g/brerickner/hodor/?branch=master"><img src="https://scrutinizer-ci.com/g/brerickner/hodor/badges/quality-score.png?b=master"></a>
+</p>
 
 <p align="center">
 <a href="#how-to-use">How To Use</a> •

@@ -11,10 +11,10 @@
 
 <p align="center">
 <a href="#how-to-use">How To Use</a> •
-<a href="#how-to-use">Levels</a> •
-<a href="#resources-provided">Resources Provided</a> •
-<a href="#features">Features</a> •
-<a href="#license">License</a>
+<a href="#levels-zeroonetwotrophy">Levels</a> •
+<a href="#resources-provided--bookmark_tabs">Resources Provided</a> •
+<a href="#features--rocket">Features</a> •
+<a href="#licensescroll">License</a>
 </p>
 
 ![gif](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/261/giphy_hodor.gif)

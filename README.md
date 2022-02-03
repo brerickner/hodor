@@ -60,17 +60,15 @@ $ ./level_0.py
 * You can use the language of your choice
 * [CONTEST PAGE](http://158.69.76.135/level0.php) :checkered_flag:  
 
-#### Demo: 
-&nbsp;
->
-> ![gif](level_0/level_0_Demo.gif)
+####  Demo:
+>![gif](level_0/level_0_Demo.gif)
 
-> ##### **Repo:**
+##### **Repo:**
 >
 > - **GitHub repository:** [hodor](https://github.com/brerickner/hodor)
 > - **Py Script:** [level_0](https://github.com/brerickner/hodor/blob/master/level_0/level_0.py)   
 
-
+&nbsp;
 
 ####  Level 1 :white_check_mark:
 

@@ -44,13 +44,13 @@ Altering the number of times you vote:
 **Running the Python Script:**
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
-# Go into the repository
-$ cd electron-markdownify
-# Install dependencies
-$ npm install
-# Run the app
-$ npm start
+$ git clone https://github.com/brerickner/hodor.git
+# Go into the repository of desired level
+$ cd hodor/level_0
+# Run the script
+$ ./level_0.py
+# Stop/Cancel the script
+(Ctrl + C)
 ```
 
 ##  **Levels**

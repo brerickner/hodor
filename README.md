@@ -6,6 +6,13 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/brerickner/hodor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/brerickner/hodor/?branch=master)
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/brerickner/hodor/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
 [![Build Status](https://scrutinizer-ci.com/g/brerickner/hodor/badges/build.png?b=master)](https://scrutinizer-ci.com/g/brerickner/hodor/build-status/master)
+<p align="center">
+<a href="#how-to-use">How To Use</a> •
+  <a href="#levels">Levels</a> •
+  <a href="#resources">Resources</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#license">License</a>
+</p>
 
 ![gif](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/261/giphy_hodor.gif)
 
@@ -19,8 +26,35 @@ HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!
 
 &nbsp;  
 
-**Levels:**
-=======
+##  **How To Use**
+***
+To run this script you will need **Python3** and **pip** installed. It's also imperative you have the ***requests*** *module* installed. This is a third party module that can be installed globally using the command:
+
+```bash
+$ pip install requests
+```
+Vote for a different ID: 
+> Modify the *value* associated with the key 'id' when constructing the *voteBre dict*.
+
+Altering the number of times you vote:
+> Done by adjusting the parameter of *range()* being used to initialize *for* loop. 
+
+&nbsp;
+
+**Running the Python Script:**
+```bash
+# Clone this repository
+$ git clone https://github.com/amitmerchant1990/electron-markdownify
+# Go into the repository
+$ cd electron-markdownify
+# Install dependencies
+$ npm install
+# Run the app
+$ npm start
+```
+
+##  **Levels**
+***
 
 
 
@@ -82,7 +116,7 @@ HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!
 &nbsp;  
 
 
-Resources
+##  Resources Provided
 ---------
 
 **Read or watch**:
@@ -92,3 +126,10 @@ Resources
 *   [OCR for Captcha](https://www.google.com/search?q=solving+captcha+with+ocr)
 *   [TOR](https://www.google.com/search?q=tor)
 *   [Proxy lists](https://www.google.com/search?q=proxy+lists)
+
+##  License
+---  
+
+MIT  
+
+

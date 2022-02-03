@@ -24,8 +24,6 @@ HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!
 >
 > Many online contests make gathering votes a part of their process for choosing winners. The problem is that a lot of them are designed with flaws… 
 
-&nbsp;  
-
 ##  How To Use
 
 To run this script you will need **Python3** and **pip** installed. It's also imperative you have the ***requests*** *module* installed. This is a third party module that can be installed globally using the command:

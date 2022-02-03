@@ -1,5 +1,5 @@
 <a href="https://github.com/brerickner/">
-    <img src="bre_favi.png" alt="Bre" title="Bre" align="right" height="35" />
+    <img src="bre_favi.png" alt="Bre" title="Bre" align="right" height="60" />
 </a> 
 
 # HODOR

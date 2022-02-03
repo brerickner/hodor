@@ -3,12 +3,13 @@
 </a> 
 
 # HODOR
-<p align="center">
-<a href="https://scrutinizer-ci.com/g/brerickner/hodor/badges/quality-score.png?b=master"> <img src="https://scrutinizer-ci.com/g/brerickner/hodor/?branch=master" alt="scrutinizer" width="200"></a>
-</p>
+<a align="center">
+
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/brerickner/hodor/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
 [![Build Status](https://scrutinizer-ci.com/g/brerickner/hodor/badges/build.png?b=master)](https://scrutinizer-ci.com/g/brerickner/hodor/build-status/master)
-</h1>
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/brerickner/hodor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/brerickner/hodor/?branch=master)
+</a>
+
 <p align="center">
 <a href="#how-to-use">How To Use</a> •
   <a href="#levels">Levels</a> •

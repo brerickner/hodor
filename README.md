@@ -57,8 +57,8 @@ $ ./level_0.py
 ###  Level 0 :white_check_mark:  
 
 `Write a script or a program that votes for Bre's Holnerton ID 1024 times!`
-* You can use the language of your choice
-* [CONTEST PAGE](http://158.69.76.135/level0.php) :checkered_flag:  
+*  You can use the language of your choice
+*  [CONTEST PAGE](http://158.69.76.135/level0.php) :checkered_flag:  
 
 ####  Demo:
 >![gif](level_0/level_0_Demo.gif)
@@ -72,37 +72,31 @@ $ ./level_0.py
 
 ####  Level 1 :white_check_mark:
 
-> `Write a script or a program that votes for Bre's Holberton ID 4096 times!`
->
-> *   Webpage uses cookies
-> *   You can use the language of your choice
-> *   [CONTEST PAGE](http://158.69.76.135/level1.php) :checkered_flag:
-
-> ##### Demo:  &nbsp;  
->
+`Write a script or a program that votes for Bre's Holberton ID 4096 times!`
+*  Webpage uses cookies
+*  You can use the language of your choice
+*  [CONTEST PAGE](http://158.69.76.135/level1.php) :checkered_flag:
+#### Demo:  
 > ![gif](level_1/Level_1.gif)
 
-> ##### Repo:
+##### **Repo**:
 >
 > - GitHub repository: [hodor](https://github.com/brerickner/hodor)
 > - Py Script: [level_1](https://github.com/brerickner/hodor/blob/master/level_1/level1.py)
 
-
+&nbsp;
 
 ####  Level 2 :white_check_mark:
 
-> `Write a script or a program that votes for Bre's Holberton ID 1024 times! `
->
->
-> *   Contest only allows votes from Windows users
-> *   You can use the language of your choice
-> *   [CONTEST PAGE](http://158.69.76.135/level2.php) :checkered_flag:
+`Write a script or a program that votes for Bre's Holberton ID 1024 times! `
+*  Contest only allows votes from Windows users
+*  You can use the language of your choice
+*  [CONTEST PAGE](http://158.69.76.135/level2.php) :checkered_flag:
 
-> #####  Demo:  
->
+####  Demo:  
 > ![gif](level_2/demo_level_2.gif)
 
-> #####  Repo:
+#####  Repo:
 >
 > *   GitHub repository: [hodor](https://github.com/brerickner/hodor)
 > *   Py Script: [level_2](https://github.com/brerickner/hodor/blob/master/level_2/level_2.py)

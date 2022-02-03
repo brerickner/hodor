@@ -70,7 +70,7 @@ $ ./level_0.py
 
 &nbsp;
 
-####  Level 1 :white_check_mark:
+###  Level 1 :white_check_mark:
 
 `Write a script or a program that votes for Bre's Holberton ID 4096 times!`
 *  Webpage uses cookies
@@ -86,7 +86,7 @@ $ ./level_0.py
 
 &nbsp;
 
-####  Level 2 :white_check_mark:
+###  Level 2 :white_check_mark:
 
 `Write a script or a program that votes for Bre's Holberton ID 1024 times! `
 *  Contest only allows votes from Windows users
@@ -101,9 +101,6 @@ $ ./level_0.py
 > *   GitHub repository: [hodor](https://github.com/brerickner/hodor)
 > *   Py Script: [level_2](https://github.com/brerickner/hodor/blob/master/level_2/level_2.py)
 
-&nbsp;  
-
-
 ##  Resources Provided
 
 **Read or watch**:
@@ -115,7 +112,6 @@ $ ./level_0.py
 *   [Proxy lists](https://www.google.com/search?q=proxy+lists)
 
 ##  Features
----
 
 - [x] HTTP POST Automation
 - [x] Success Message
@@ -124,7 +120,6 @@ $ ./level_0.py
 - [x] Hack online voting contest as a *Window's* User
 - [ ] Hack online voting contest with captcha
 ##  License
----  
 
 MIT  
 

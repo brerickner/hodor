@@ -11,17 +11,17 @@
 
 <p align="center">
 <a href="#how-to-use">How To Use</a> •
-  <a href="#levels">Levels</a> •
-  <a href="#resources-provided">Resources Provided</a> •
-  <a href="#features">Features</a> •
-  <a href="#license">License</a>
+<a href="#how-to-use">Levels</a> •
+<a href="#resources-provided">Resources Provided</a> •
+<a href="#features">Features</a> •
+<a href="#license">License</a>
 </p>
 
 ![gif](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/261/giphy_hodor.gif)
 
 
 
-HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!  
+HOLD THE DOOR ...while **Bre** hacks some online voting contest!!!  
 
 > _This project is meant for educational purposes only_
 >
@@ -56,7 +56,7 @@ $ ./level_0.py
 (Ctrl + C)
 ```
 
-## Levels :zero::one::two:  
+## Levels :zero::one::two::trophy: 
 
 ### Level 0 :white_check_mark:  
 

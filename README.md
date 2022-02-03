@@ -31,10 +31,10 @@ To run this script you will need **Python3** and **pip** installed. It's also im
 ```bash
 $ pip install requests
 ```
-#### Vote for a different ID:   
+####  **Vote for a different ID:**   
 * Modify the *value* associated with the key 'id' when constructing the *voteBre dict*.
 
-#### Altering the number of times you vote:
+####  **Altering the number of times you vote:**
 * Done by adjusting the parameter of *range()* being used to initialize *for* loop. 
 
 

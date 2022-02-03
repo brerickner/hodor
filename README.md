@@ -110,17 +110,17 @@ $ ./level_0.py
 > *   **GitHub repository:** [hodor](https://github.com/brerickner/hodor)
 > *   **Py Script:** [level_2](https://github.com/brerickner/hodor/blob/master/level_2/level_2.py)
 
-## Resources Provided:bookmark_tabs:
+## Resources Provided  :bookmark_tabs:
 
-:bookmark_tabs:**Read or watch**:
+**Read or watch**:
 
-*   [HTTP headers](https://www.google.com/search?q=http+headers+explained+post&oq=http+headers+explained+post)
-*   [Scraping](/rltoken/L2HhLK0iyncmurlkigh5yw "Scraping")
-*   [OCR for Captcha](https://www.google.com/search?q=solving+captcha+with+ocr)
-*   [TOR](https://www.google.com/search?q=tor)
-*   [Proxy lists](https://www.google.com/search?q=proxy+lists)
+>*   [HTTP headers](https://www.google.com/search?q=http+headers+explained+post&oq=http+headers+explained+post)
+>*   [Scraping](/rltoken/L2HhLK0iyncmurlkigh5yw "Scraping")
+>*   [OCR for Captcha](https://www.google.com/search?q=solving+captcha+with+ocr)
+>*   [TOR](https://www.google.com/search?q=tor)
+>*   [Proxy lists](https://www.google.com/search?q=proxy+lists)
 
-## Features:ticket:
+## Features  :rocket:
 
 - [x] HTTP POST Automation
 - [x] Success Message

@@ -44,11 +44,14 @@ $ pip install requests
 **Running the Python Script:**
 ```bash
 # Clone this repository
-$ git clone https://github.com/brerickner/hodor.git
+$ git clone https://github.com/brerickner/hodor.git  
+
 # Go into the repository of desired level
-$ cd hodor/level_0
+$ cd hodor/level_0  
+
 # Run the script
-$ ./level_0.py
+$ ./level_0.py  
+
 # Stop/Cancel the script
 (Ctrl + C)
 ```

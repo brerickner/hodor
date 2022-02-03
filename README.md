@@ -55,7 +55,7 @@ $ ./level_0.py
 
 `Write a script or a program that votes for Bre's Holnerton ID 1024 times!`
 * You can use the language of your choice
-* [CONTEST PAGE](http://158.69.76.135/level0.php)
+* [CONTEST PAGE](http://158.69.76.135/level0.php) :checkered_flag:  
 
 #### Demo: 
 &nbsp;
@@ -75,7 +75,7 @@ $ ./level_0.py
 >
 > *   Webpage uses cookies
 > *   You can use the language of your choice
-> *   [CONTEST PAGE](http://158.69.76.135/level1.php)
+> *   [CONTEST PAGE](http://158.69.76.135/level1.php) :checkered_flag:
 
 > ##### Demo:  &nbsp;  
 >
@@ -95,7 +95,7 @@ $ ./level_0.py
 >
 > *   Contest only allows votes from Windows users
 > *   You can use the language of your choice
-> *   [CONTEST PAGE](http://158.69.76.135/level2.php)
+> *   [CONTEST PAGE](http://158.69.76.135/level2.php) :checkered_flag:
 
 > #####  Demo:  
 >

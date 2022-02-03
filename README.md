@@ -1,6 +1,14 @@
-# **HODOR**
+<a href="https://github.com/brerickner/">
+    <img src="bre_favi.png" alt="Bre" title="Bre" align="right" height="35" />
+</a> 
+
+# HODOR
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/brerickner/hodor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/brerickner/hodor/?branch=master)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/brerickner/hodor/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
+[![Build Status](https://scrutinizer-ci.com/g/brerickner/hodor/badges/build.png?b=master)](https://scrutinizer-ci.com/g/brerickner/hodor/build-status/master)
 
 ![gif](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/261/giphy_hodor.gif)
+
 
 
 HOLD THE DOOR ...while **Bre** hacks your online voting contest!!!  

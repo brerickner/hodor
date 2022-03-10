@@ -129,7 +129,5 @@ $ ./level_0.py
 - [x] Hack online voting contest as a *Window's* User
 - [ ] Hack online voting contest with captcha
 ## License:scroll:
-
-MIT  
-
+Open Source
 
